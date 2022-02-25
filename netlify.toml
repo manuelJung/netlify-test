@@ -7,4 +7,4 @@
   # located at the absolute path "root/project/build-output"
   
   publish = "public/"
-  command = "unzip public.zip"
+  command = "unzip -t public.zip"
